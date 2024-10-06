@@ -1,0 +1,77 @@
+# Site settings
+title: WhoVisions Presents
+email: your-email@domain.com
+url: https://whovisionspresents.com/
+description: "An NYC and East Coast based Media Studio"
+keywords: "photography, media, nyc, new york, models, cosplay, fantasy"
+meta_author: Meralus Tedley
+# Build settings
+markdown: kramdown
+permalink: pretty
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 0c0807 # profile section
+  link-primary: 979a9a 
+  primary-rgb: "24,288,156" #"128,179,255" 
+  secondary: 0c0807 # footer section 
+  secondary-dark: 0c0807 # copyright footer section
+# dark gray 25262a 
+# gray 343a40 
+# black ffffff
+# white 000000
+# black black 17202a 
+# offset black  0c0807
+# offwhite  #f0f3f4 
+# silver  #979a9a 
+header-text: We are WhoVisions
+skills: "We capture memories - We capture beauty - We capture culture"
+# typewriter text
+introdata:
+    first: 'We capture memories'
+    second: 'We capture beauty'
+    third: 'We capture culture'
+# Footer section 1 - Location
+address:
+  - line: In the NYC
+  - line: and tri-county area
+
+# Footer section 2 -services 
+# Services content
+#services: 'Weddings, Couples, Cosplay, Parties, all events and photos can be found on our service page'
+services: 'We have a variety of services that can be found <a href="https://services.whovisionspresents.com/">here</a>.'
+slist:
+  - title: camera
+    icon: none
+    url: https://www.picdrop.com/whovisionspresents/
+  - title: instagram
+    icon: none
+    url: https://instagram.com/whovisions
+  - title: youtube
+    icon: none
+    url: https://www.youtube.com/channel/UCH16tV4tIjAc1W1KVRVBPqw
+  - title: twitch
+    icon: none
+    url: https://www.twitch.tv/superdavewho
+
+# Footer section 3
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: photo-film
+    icon: none
+    url: https://www.picdrop.com/whovisionspresents/
+  - title: instagram
+    icon: none
+    url: https://instagram.com/whovisions
+  - title: youtube
+    icon: none
+    url: https://www.youtube.com/channel/UCH16tV4tIjAc1W1KVRVBPqw
+  - title: twitch
+    icon: none
+    url: https://www.twitch.tv/superdavewho
+
+# Footer settings
+footer:
+  copyright: Tedley Meralus
+  location: Location
+  social: Follow Us
+  services: Services
