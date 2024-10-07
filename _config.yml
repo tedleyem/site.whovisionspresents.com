@@ -52,7 +52,6 @@ slist:
   - title: twitch
     icon: none
     url: https://www.twitch.tv/superdavewho
-
 # Footer section 3
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
